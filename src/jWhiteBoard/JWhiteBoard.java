@@ -117,9 +117,9 @@ public class JWhiteBoard extends ReceiverAdapter implements ActionListener, Chan
      * Set name for Group
      * @param groupName
      */
-    public void setGroupName(String groupName) {
+    public void setGroupName(String GroupName) {
         if(groupName != null)
-            groupName=groupName;
+            groupName=GroupName;//fix
     }
 
 
