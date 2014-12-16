@@ -842,3 +842,4 @@ public class JWhiteBoard extends ReceiverAdapter implements ActionListener,
 	}
 
 }
+}
